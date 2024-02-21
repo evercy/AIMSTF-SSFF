@@ -1,5 +1,6 @@
 # AIMSTF-SSFF
 这是对论文“多层次时空特征自适应集成与特有-共享特征融合的双模态情感识别”的PyTorch实现。
+
 The PyTorch implementation for the paper 'Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion'.
 
 孙强<sup>1,2</sup>, 陈远<sup>1</sup>
