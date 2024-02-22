@@ -2,10 +2,6 @@
 
 The PyTorch implementation for the paper 'Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion'.
 
-Qiang Sun<sup>1,2</sup>,Yuan Chen<sup>1</sup>
-1.	Department of Communication Engineering, School of Automation and Information Engineering, Xi’an University of Technology, Xi’an 710048, China
-2.	Xi’an Key Laboratory of Wireless Optical Communication and Network Research, Xi’an 710048, China
-
 # Overview
 ![image](https://github.com/evercy/AIMSTF_SSFF/blob/main/Figure/%E5%9B%BE1.jpg)
 <p align="center">Architecture of the AIMSTF-SSFF </p>
@@ -35,4 +31,8 @@ This project is built upon [DeepVANet](https://github.com/geekdanielz/DeepVANet)
 If this work is useful to you, please cite:
 
 > Sun, Q., Chen, Y.: Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion[J]. Journal of Electronics & Information Technology.  doi: 10.11999/JEIT231110.
+
+Qiang Sun<sup>1,2</sup>,Yuan Chen<sup>1</sup>
+1.	Department of Communication Engineering, School of Automation and Information Engineering, Xi’an University of Technology, Xi’an 710048, China
+2.	Xi’an Key Laboratory of Wireless Optical Communication and Network Research, Xi’an 710048, China
 
