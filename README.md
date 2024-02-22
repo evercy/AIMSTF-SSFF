@@ -4,8 +4,8 @@
 The PyTorch implementation for the paper 'Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion'.
 
 孙强<sup>1,2</sup>, 陈远<sup>1</sup>
-1. 西安理工大学自动化与信息工程学院通信工程系 西安 710048 中国 
-2. 西安市无线光通信与网络研究重点实验室   西安  710048 中国 
+1. 西安理工大学自动化与信息工程学院通信工程系, 西安 710048, 中国 
+2. 西安市无线光通信与网络研究重点实验室, 西安  710048, 中国 
 
 Qiang Sun<sup>1,2</sup>,Yuan Chen<sup>1</sup>
 1.	Department of Communication Engineering, School of Automation and Information Engineering, Xi’an University of Technology, Xi’an 710048, China
