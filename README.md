@@ -30,7 +30,7 @@ This project is built upon [DeepVANet](https://github.com/geekdanielz/DeepVANet)
 # Citation
 If this work is useful to you, please cite:
 
-> Sun, Q., Chen, Y.: Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion[J]. Journal of Electronics & Information Technology, 46(2):1-14, 2024. doi: 10.11999/JEIT231110.
+> Sun, Q., Chen, Y.: Bimodal Emotion Recognition Based on Adaptive Integration of Multi-level Spatial-Temporal Features and Specific-Shared Feature Fusion[J]. Journal of Electronics & Information Technology, 46(2):574-587, 2024. doi: 10.11999/JEIT231110.
 
 Qiang Sun<sup>1,2</sup>,Yuan Chen<sup>1</sup>
 1.	Department of Communication Engineering, School of Automation and Information Engineering, Xi’an University of Technology, Xi’an 710048, China
